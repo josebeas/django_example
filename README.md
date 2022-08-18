@@ -117,7 +117,7 @@ Where:
 
 * https://tutorial.djangogirls.org/es/
 * https://www.geeksforgeeks.org/custom-django-management-commands/
-
+* https://www.geeksforgeeks.org/college-management-system-using-django-python-project/
 
 ## Next steps:
 
