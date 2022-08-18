@@ -120,13 +120,10 @@ Where:
 ## Next steps:
 
 ### Security
-* 
+* https://opensource.com/article/18/1/10-tips-making-django-admin-more-secure
 
 ### ORM
-* 
-
-### Error Handling (HTTP)
-* 
+* https://steelkiwi.com/blog/best-practices-working-django-models-python/
 
 ### Unit tests
-* 
+* https://www.digitalocean.com/community/tutorials/how-to-add-unit-testing-to-your-django-project-es
