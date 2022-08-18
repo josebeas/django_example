@@ -116,6 +116,8 @@ Where:
 ## Useful links
 
 * https://tutorial.djangogirls.org/es/
+* https://www.geeksforgeeks.org/custom-django-management-commands/
+
 
 ## Next steps:
 
